@@ -1,2 +1,2 @@
 # Personal-Planner
-![login](D:\AREX Projects\Personal Planner\1.png)
+![login](https://github.com/Arsal-Jawed/Personal-Planner/edit/main/1.png)
