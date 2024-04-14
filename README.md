@@ -1,5 +1,5 @@
 # Personal-Planner
-<h2>Tools & Technologies: JavaFX, SceneBuilder, MySQL, XAMPP, Eclipse IDE</h2>
+# <h2>Tools & Technologies: JavaFX, SceneBuilder, MySQL, XAMPP, Eclipse IDE</h2>
 ![login](https://github.com/Arsal-Jawed/Personal-Planner/blob/main/1.PNG)
 ![login](https://github.com/Arsal-Jawed/Personal-Planner/blob/main/2.PNG)
 ![login](https://github.com/Arsal-Jawed/Personal-Planner/blob/main/2x.PNG)
